@@ -16,11 +16,11 @@
 
 ✅ pip3 install termcolor
 
-✅ git clone https://github.com/Hackerscolonyofficial/HCO-Info-Finder.git
+✅ git clone https://github.com/11halana/IPfind.git
 
-✅ cd HCO-Info-Finder
+✅ cd 13hm.py
 
-✅ python hco.py
+✅ python 13hm.py
 
 
 
